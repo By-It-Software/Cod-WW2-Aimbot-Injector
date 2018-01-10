@@ -1,0 +1,9 @@
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\bin\Debug\COD_WWII Injector Aimbot.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\bin\Debug\COD_WWII Injector Aimbot.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\bin\Debug\COD_WWII Injector Aimbot.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII_Injector_Aimbot.Form1.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII_Injector_Aimbot.Resources.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII Injector Aimbot.vbproj.GenerateResource.Cache
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII Injector Aimbot.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII Injector Aimbot.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\COD_WWII Injector Aimbot\COD_WWII Injector Aimbot\obj\x86\Debug\COD_WWII Injector Aimbot.pdb
